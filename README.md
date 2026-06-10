@@ -45,6 +45,11 @@ The objective of this project is to identify:
 * airlines.csv
 * airports.csv
 
+Due to GitHub's file size limitations, the large dataset files (flights.csv and flights_clean.csv) are not included in this repository.
+
+Dataset Access:
+[https://drive.google.com/drive/folders/1MKfXdsISh1asK6NMuMeMikztjUEvaJzJ?usp=drive_link]
+
 ### Dataset Source
 
 Dataset provided as part of an internship project assignment. Original source information was not provided with the dataset.
@@ -170,8 +175,6 @@ Based on the findings, the following actions are recommended:
 Airline_Performance_Analysis/
 │
 ├── Data/
-│   ├── flights.csv
-│   ├── flights_clean.csv
 │   ├── airlines.csv
 │   └── airports.csv
 │
