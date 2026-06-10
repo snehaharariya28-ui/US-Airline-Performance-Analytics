@@ -47,6 +47,8 @@ The objective of this project is to identify:
 
 The dataset used for this project was provided as part of an analytics assignment and exceeds GitHub's file size limitations. Therefore, the raw flight datasets are not included in this repository.
 
+Dataset access : [https://drive.google.com/drive/folders/1qN9lDeLMJ6fgpUYFoNBQkXajsccwQOb5?usp=sharing]
+
 The repository contains all analysis scripts, reports, dashboard files, and documentation required to understand the complete workflow.
 
 ### Dataset Source
