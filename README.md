@@ -45,10 +45,9 @@ The objective of this project is to identify:
 * airlines.csv
 * airports.csv
 
-Due to GitHub's file size limitations, the large dataset files (flights.csv and flights_clean.csv) are not included in this repository.
+The dataset used for this project was provided as part of an analytics assignment and exceeds GitHub's file size limitations. Therefore, the raw flight datasets are not included in this repository.
 
-Dataset Access:
-[https://drive.google.com/drive/folders/1MKfXdsISh1asK6NMuMeMikztjUEvaJzJ?usp=drive_link]
+The repository contains all analysis scripts, reports, dashboard files, and documentation required to understand the complete workflow.
 
 ### Dataset Source
 
