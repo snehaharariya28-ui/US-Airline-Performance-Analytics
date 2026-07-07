@@ -210,7 +210,5 @@ Detailed project documentation is available in the Reports folder:
 
 ## Conclusion
 
-## Conclusion
-
 This analysis demonstrates the value of data-driven decision-making in aviation operations. By identifying performance trends, operational bottlenecks, and the primary drivers of delays and cancellations, the project provides actionable insights that can support improvements in reliability, efficiency, and overall passenger experience.
 
