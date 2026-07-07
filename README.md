@@ -148,19 +148,19 @@ Based on the findings, the following actions are recommended:
 
 ### Dashboard 1 – Operational Overview
 
-![Operational Overview](PowerBI/Dashboard/Dashboard_Page_1.png)
+![Operational Overview](PowerBI/Dashboard/Dashboard_page_1.png)
 
 ### Dashboard 2 – Airline Performance Analysis
 
-![Airline Performance Analysis](PowerBI/Dashboard/Dashboard_Page_2.png)
+![Airline Performance Analysis](PowerBI/Dashboard/Dashboard_page_2.png)
 
 ### Dashboard 3 – Airport Analysis
 
-![Airport Analysis](PowerBI/Dashboard/Dashboard_Page_3.png)
+![Airport Analysis](PowerBI/Dashboard/Dashboard_page_3.png)
 
 ### Dashboard 4 – Delay Trends & Route Analysis
 
-![Delay Trends & Route Analysis](PowerBI/Dashboard/Dashboard_Page_4.png)
+![Delay Trends & Route Analysis](PowerBI/Dashboard/Dashboard_page_4.png)
 
 ---
 
